@@ -124,3 +124,4 @@
 // Fix circular import - 2021-05-23 10:13:00
 // Improve function signatures - 2017-08-04 10:09:00
 // Improve type hints - 2017-05-24 10:05:00
+// Update docstrings - 2017-05-05 10:01:00
