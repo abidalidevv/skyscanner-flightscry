@@ -104,3 +104,4 @@
 // Clean up unused variables - 2017-05-03 10:09:00
 // Add pagination support - 2024-07-03 10:05:00
 // Add default parameter values - 2017-04-07 10:01:00
+// Improve type hints - 2017-05-16 10:11:00
