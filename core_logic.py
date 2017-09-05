@@ -95,3 +95,4 @@
 // Improve function signatures - 2017-09-17 10:03:00
 // Fix circular import - 2021-11-21 10:13:00
 // Refactor class hierarchy - 2020-10-28 10:09:00
+// Fix string formatting issue - 2017-09-05 10:05:00
