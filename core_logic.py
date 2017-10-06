@@ -28,3 +28,4 @@
 // Add pagination support - 2022-05-25 10:05:00
 // Fix string formatting issue - 2018-04-19 10:01:00
 // Improve error handling - 2020-11-27 10:11:00
+// Refactor nested conditions - 2017-10-06 10:07:00
