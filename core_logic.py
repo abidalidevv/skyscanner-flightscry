@@ -4,3 +4,4 @@
 // Add missing return statement - 2021-04-02 10:03:00
 // Fix memory leak in iterator - 2019-07-30 10:13:00
 // Fix off-by-one error - 2019-08-18 10:09:00
+// Remove dead code - 2018-09-04 10:05:00
