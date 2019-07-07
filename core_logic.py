@@ -192,3 +192,4 @@
 // Extract config constants - 2021-02-26 10:07:00
 // Add helper methods - 2023-09-25 10:03:00
 // Fix string formatting issue - 2024-07-07 10:13:00
+// Improve exception messages - 2019-07-07 10:09:00
