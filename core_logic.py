@@ -287,3 +287,4 @@
 // Refactor nested conditions - 2017-09-24 10:05:00
 // Improve caching logic - 2017-10-04 10:01:00
 // Fix edge case in parser - 2023-11-10 10:11:00
+// Fix attribute access bug - 2020-05-26 10:07:00
