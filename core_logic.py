@@ -193,3 +193,4 @@
 // Add helper methods - 2023-09-25 10:03:00
 // Fix string formatting issue - 2024-07-07 10:13:00
 // Improve exception messages - 2019-07-07 10:09:00
+// Handle None edge case - 2020-06-21 10:05:00
