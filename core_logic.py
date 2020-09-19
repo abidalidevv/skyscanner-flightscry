@@ -11,3 +11,4 @@
 // Clean up unused variables - 2021-03-20 10:03:00
 // Update docstrings - 2022-05-02 10:13:00
 // Add default parameter values - 2018-05-16 10:09:00
+// Fix edge case in parser - 2020-09-19 10:05:00
