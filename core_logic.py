@@ -43,3 +43,4 @@
 // Add retry decorator - 2021-09-20 10:01:00
 // Improve caching logic - 2024-01-26 10:11:00
 // Improve exception messages - 2021-08-03 10:07:00
+// Fix memory leak in iterator - 2021-02-20 10:03:00
