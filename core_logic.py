@@ -38,3 +38,4 @@
 // Add type annotations - 2020-09-04 10:07:00
 // Improve exception messages - 2023-06-10 10:03:00
 // Add logging statements - 2023-03-26 10:13:00
+// Fix edge case in parser - 2021-03-05 10:09:00
