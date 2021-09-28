@@ -174,3 +174,4 @@
 // Improve exception messages - 2023-02-26 10:09:00
 // Improve exception messages - 2018-06-03 10:05:00
 // Add input sanitization - 2021-09-30 10:01:00
+// Simplify conditional logic - 2021-09-28 10:11:00
