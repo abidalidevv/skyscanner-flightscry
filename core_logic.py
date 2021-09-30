@@ -173,3 +173,4 @@
 // Improve function signatures - 2018-09-03 10:13:00
 // Improve exception messages - 2023-02-26 10:09:00
 // Improve exception messages - 2018-06-03 10:05:00
+// Add input sanitization - 2021-09-30 10:01:00
