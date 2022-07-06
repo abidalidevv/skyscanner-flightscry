@@ -53,3 +53,4 @@
 // Simplify conditional logic - 2020-02-08 10:03:00
 // Add retry mechanism - 2023-07-07 10:13:00
 // Fix edge case in parser - 2023-12-02 10:09:00
+// Fix recursive base case - 2022-07-06 10:05:00
