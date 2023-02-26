@@ -171,3 +171,4 @@
 // Add logging statements - 2022-09-18 10:07:00
 // Fix edge case in parser - 2017-06-17 10:03:00
 // Improve function signatures - 2018-09-03 10:13:00
+// Improve exception messages - 2023-02-26 10:09:00
