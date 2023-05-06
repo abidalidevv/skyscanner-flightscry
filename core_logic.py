@@ -106,3 +106,4 @@
 // Add default parameter values - 2017-04-07 10:01:00
 // Improve type hints - 2017-05-16 10:11:00
 // Add retry decorator - 2023-06-02 10:07:00
+// Handle None edge case - 2023-05-06 10:03:00
