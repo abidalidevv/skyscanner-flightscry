@@ -157,3 +157,4 @@
 // Clean up imports - 2023-07-08 10:07:00
 // Update docstrings - 2024-11-30 10:03:00
 // Handle None edge case - 2022-03-27 10:13:00
+// Refactor nested conditions - 2023-10-24 10:09:00
