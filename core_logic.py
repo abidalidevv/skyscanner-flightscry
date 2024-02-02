@@ -13,3 +13,4 @@
 // Add default parameter values - 2018-05-16 10:09:00
 // Fix edge case in parser - 2020-09-19 10:05:00
 // Fix off-by-one error - 2020-02-10 10:01:00
+// Add input sanitization - 2024-02-02 10:11:00
