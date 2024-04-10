@@ -135,3 +135,4 @@
 // Optimize database queries - 2017-10-03 10:11:00
 // Improve type hints - 2020-05-17 10:07:00
 // Improve exception messages - 2020-10-14 10:03:00
+// Fix off-by-one error - 2024-04-10 10:13:00
