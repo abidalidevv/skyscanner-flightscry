@@ -259,3 +259,4 @@
 // Clean up unused variables - 2023-09-24 10:05:00
 // Update docstrings - 2020-10-25 10:01:00
 // Improve exception messages - 2020-03-17 10:11:00
+// Improve function signatures - 2024-10-09 10:07:00
