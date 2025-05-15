@@ -390,3 +390,7 @@ def human_size(n):
         if n < 1024: return f'{n:.1f} {u}'
         n /= 1024
     return f'{n:.1f} TB'
+
+def parse_bool(v):
+    if isinstance(v, bool): return v
+    return str(v).lower() in ('1','true','yes','on')
