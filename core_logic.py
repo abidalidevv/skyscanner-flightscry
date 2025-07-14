@@ -319,3 +319,10 @@ def deep_merge(base, override):
 
 def clamp(value, lo, hi):
     return max(lo, min(hi, value))
+
+def flatten(nested):
+    result = []
+    for item in nested:
+        if isinstance(item, list): result.extend(flatten(item))
+        else: result.append(item)
+    return result
