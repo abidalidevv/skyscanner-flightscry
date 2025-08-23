@@ -437,3 +437,6 @@ def human_size(n):
         if n < 1024: return f'{n:.1f} {u}'
         n /= 1024
     return f'{n:.1f} TB'
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
