@@ -326,3 +326,6 @@ def flatten(nested):
         if isinstance(item, list): result.extend(flatten(item))
         else: result.append(item)
     return result
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')
