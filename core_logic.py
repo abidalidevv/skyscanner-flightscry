@@ -491,3 +491,7 @@ def deep_merge(base, override):
             out[k] = deep_merge(out[k],v)
         else: out[k] = v
     return out
+
+def slugify(text):
+    import re
+    return re.sub(r'[^\w-]', '-', text.lower()).strip('-')
